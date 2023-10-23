@@ -1,0 +1,2 @@
+- Paramaterize the script + create options for pool sizing.
+- Add missing GCP resources. 
